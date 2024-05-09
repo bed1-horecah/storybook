@@ -1,0 +1,36 @@
+.card-container{
+      border: 1px solid #EFEFEF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.card-brand{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.card-brand p{
+    color: #484848;
+    font-weight: 700;
+    font-size: medium;
+}
+
+.card-title{
+    color: #484848;
+    font-weight: 700;
+    font-size: large;
+}
+
+.card-department{
+    opacity: .3;
+    justify-content: space-between;
+    display: flex;
+}
+
+.card-icon{
+    color: #C1C1C1;
+    opacity: .4;
+}
